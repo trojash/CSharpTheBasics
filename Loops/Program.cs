@@ -135,7 +135,7 @@ for (int i = 0; i <= 10; i++)
     Console.WriteLine($"{n} * {i} = {n * i}");
 }
 */
-
+/*
 int totalRows = 5;
 int totalCols = 10;
 
@@ -146,6 +146,78 @@ for (int currentRows = 1; currentRows <= totalRows; currentRows++)
         Console.WriteLine("*");
     }
 }
+*/
 
 
+/* The Prototype */
+/*
+Console.WriteLine("The Prototype!");
+Console.WriteLine("--------------");
+int number;
+
+do
+{
+    Console.WriteLine("User1, Enter a number between 0 and 100: ");  
+    number = Convert.ToInt32(Console.ReadLine());     
+    
+} while (number < 0 || number > 100);
+
+Console.Clear();
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("User 2, Guess the number?: ");
+
+
+while (true)
+{
+    Console.WriteLine("What is your next guess? ");
+    int guess = Convert.ToInt32(Console.ReadLine());
+
+
+    if (guess < number)
+    {
+        Console.WriteLine($"{guess} is too high");
+       
+    }
+    else if (guess < number)
+    {
+        Console.WriteLine($"{guess} is too low");
+    }
+    else
+    {
+        break;
+    }
+}
+Console.WriteLine("You guessed the number! :)");
+*/
+
+/*
+Console.WriteLine("The Magic Cannon!");
+Console.WriteLine("--------------");
+
+for (int number = 1; number <= 100; number++)
+{
+    if (number % 5 == 0 || number % 3 == 0)
+    {
+        Console.ForegroundColor= ConsoleColor.Blue;
+        Console.WriteLine($"{number}: Electric and Fire");
+    }
+    else if (number % 5 == 0)
+    {
+        Console.ForegroundColor= ConsoleColor.Yellow;
+        Console.WriteLine($"{number}: Electric");
+    }
+    else if (number % 3 == 0)
+    {
+        Console.ForegroundColor= ConsoleColor.Red;
+        Console.WriteLine($"{number}: Fire");
+    }
+    else
+    {   Console.ForegroundColor= ConsoleColor.Gray;
+        Console.WriteLine($"{number}: Normal");
+    }
+
+}
+*/
 Console.ReadKey();
+
+
