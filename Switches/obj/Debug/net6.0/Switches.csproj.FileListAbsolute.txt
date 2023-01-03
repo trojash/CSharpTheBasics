@@ -1,0 +1,15 @@
+C:\Code\C#\Switches\bin\Debug\net6.0\Switches.exe
+C:\Code\C#\Switches\bin\Debug\net6.0\Switches.deps.json
+C:\Code\C#\Switches\bin\Debug\net6.0\Switches.runtimeconfig.json
+C:\Code\C#\Switches\bin\Debug\net6.0\Switches.dll
+C:\Code\C#\Switches\bin\Debug\net6.0\Switches.pdb
+C:\Code\C#\Switches\obj\Debug\net6.0\Switches.csproj.AssemblyReference.cache
+C:\Code\C#\Switches\obj\Debug\net6.0\Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Switches\obj\Debug\net6.0\Switches.AssemblyInfoInputs.cache
+C:\Code\C#\Switches\obj\Debug\net6.0\Switches.AssemblyInfo.cs
+C:\Code\C#\Switches\obj\Debug\net6.0\Switches.csproj.CoreCompileInputs.cache
+C:\Code\C#\Switches\obj\Debug\net6.0\Switches.dll
+C:\Code\C#\Switches\obj\Debug\net6.0\refint\Switches.dll
+C:\Code\C#\Switches\obj\Debug\net6.0\Switches.pdb
+C:\Code\C#\Switches\obj\Debug\net6.0\Switches.genruntimeconfig.cache
+C:\Code\C#\Switches\obj\Debug\net6.0\ref\Switches.dll
