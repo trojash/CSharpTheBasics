@@ -1,0 +1,15 @@
+C:\Code\C#\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Code\C#\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Code\C#\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Code\C#\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Code\C#\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Code\C#\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Code\C#\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Code\C#\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Code\C#\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Code\C#\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Code\C#\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Code\C#\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Code\C#\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Code\C#\Arrays\obj\Debug\net6.0\ref\Arrays.dll
