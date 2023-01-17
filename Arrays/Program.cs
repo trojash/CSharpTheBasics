@@ -86,7 +86,7 @@ Console.WriteLine(currentSmallest);
 */
 
 /*Calculates the average value of the numbers in an array*/
-
+/*
 int[] array = new int[] { 4, 51, -7, 13, -99, 15, -8, 45, 90 };
 
 int totalItems = 0; 
@@ -95,3 +95,68 @@ for (int index = 0; index < array.Length; index++)
     totalItems += array[index];
 float average = (float)totalItems / array.Length;
 Console.WriteLine(average);
+*/
+
+//int[] socres;
+
+//int[] scores2 = new int[10];
+
+//int firstScore = scores2[0];
+/*
+int[] scores = new int[10] { 100, 95, 92, 87, 55, 50, 48, 40, 35, 10 };
+
+int[] score3 = new int[] { 100, 95, 92, 87, 55, 50, 48, 40, 35, 10 };
+
+int totalThingsInArray = scores.Length; //See, I told you it would be easy
+Console.WriteLine("There are "+ totalThingsInArray + " things in the array.");
+*/
+
+//minimum value in an array
+/*
+int[] array = new int[] { 4, 51, -7, 13, -99, 15, -8, 45, 90 };
+
+int currentMinimum = Int32.MaxValue;
+
+for(int index = 0; index < array.Length; index++)
+{
+    if (array[index] < currentMinimum)
+    {
+        currentMinimum = array[index];
+    }
+    Console.WriteLine(currentMinimum);
+}
+**/
+//average value in an array
+/*
+int[] array = new int[] { 4, 51, -7, 13, -99, 15, -8, 45, 90 };
+
+int total = 0;
+
+for (int index = 0; index < array.Length; index++)
+{
+    total += array[index];
+}
+float average = (float)total / array.Length; //total / 8
+
+Console.WriteLine(average);
+*/
+
+//Arrays of Arrays and Multi-dimensional arrays
+/*
+int[][] matrix = new int[4][];
+matrix[0] = new int[4];
+matrix[1] = new int[5];
+matrix[2] = new int[2];
+matrix[3] = new int[6];
+matrix[2][1] = 7;
+
+Console.WriteLine(matrix);
+*/
+
+//When each array within a larger array has a different length, it is called a jagged array.
+
+int[,] matrix = new int[4, 4];
+matrix[0, 0] = 1;
+matrix[0, 1] = 0;
+matrix[3, 3] = 1;
+
