@@ -1,0 +1,15 @@
+C:\Code\C#\Enumerations\bin\Debug\net6.0\Enumerations.exe
+C:\Code\C#\Enumerations\bin\Debug\net6.0\Enumerations.deps.json
+C:\Code\C#\Enumerations\bin\Debug\net6.0\Enumerations.runtimeconfig.json
+C:\Code\C#\Enumerations\bin\Debug\net6.0\Enumerations.dll
+C:\Code\C#\Enumerations\bin\Debug\net6.0\Enumerations.pdb
+C:\Code\C#\Enumerations\obj\Debug\net6.0\Enumerations.csproj.AssemblyReference.cache
+C:\Code\C#\Enumerations\obj\Debug\net6.0\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Enumerations\obj\Debug\net6.0\Enumerations.AssemblyInfoInputs.cache
+C:\Code\C#\Enumerations\obj\Debug\net6.0\Enumerations.AssemblyInfo.cs
+C:\Code\C#\Enumerations\obj\Debug\net6.0\Enumerations.csproj.CoreCompileInputs.cache
+C:\Code\C#\Enumerations\obj\Debug\net6.0\Enumerations.dll
+C:\Code\C#\Enumerations\obj\Debug\net6.0\refint\Enumerations.dll
+C:\Code\C#\Enumerations\obj\Debug\net6.0\Enumerations.pdb
+C:\Code\C#\Enumerations\obj\Debug\net6.0\Enumerations.genruntimeconfig.cache
+C:\Code\C#\Enumerations\obj\Debug\net6.0\ref\Enumerations.dll
