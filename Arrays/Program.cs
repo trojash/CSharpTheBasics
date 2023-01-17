@@ -154,9 +154,42 @@ Console.WriteLine(matrix);
 */
 
 //When each array within a larger array has a different length, it is called a jagged array.
-
+/*
+ * multidimensional arrays
 int[,] matrix = new int[4, 4];
 matrix[0, 0] = 1;
 matrix[0, 1] = 0;
 matrix[3, 3] = 1;
+*/
+
+//the foreach loop
+//one key thing to note here is that inside
+//the loop, you have no way of knowing what index
+//specifically ou are currently at. (You don't know if you are on scores[2] or scores[4].)
+//*/ In many cases, that's no big deal.
+/*
+int[] scores = new int[5];
+
+// Populate data and maintain it as your program runs. The below is just an example.
+scores[0] = 42;
+scores[4] = -1;
+
+foreach (int score in scores)
+{
+    Console.WriteLine("Someone had this score: "+ score);
+}
+*/
+
+//using for loop that kinds 
+int[] scores = new int[10];
+
+// Populate data and maintain it as your program runs. The below is just an example.
+scores[0] = 42;
+scores[5] = -1;
+
+for (int index = 0; index < scores.Length; index++)
+{
+    int score = scores[index];
+    Console.WriteLine("Score #: " + index + ": " + score);
+}
 
